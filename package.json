@@ -1,0 +1,21 @@
+{
+  "name": "binary-addition",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/binary-addition.js",
+  "scripts": {
+    "start": "nodemon ./src/binary-addition.js",
+    "test": "jest --watchAll --verbose"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^7.29.0",
+    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-plugin-import": "^2.23.4",
+    "jest": "^27.0.6",
+    "nodemon": "^2.0.7",
+    "prettier": "^2.3.2"
+  }
+}
